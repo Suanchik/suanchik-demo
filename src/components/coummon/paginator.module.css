@@ -1,0 +1,13 @@
+.pageNumberBold {
+  cursor: pointer;
+  background-color: rgb(104, 148, 104);
+  padding: 2px;
+  color: white;
+  padding-left: 4px;
+}
+
+.pageNumber {
+  padding: 10px;
+  cursor: pointer;
+  text-align: center;
+}

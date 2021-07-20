@@ -1,0 +1,30 @@
+.PostImg img {
+  height: 110px;
+  width: 110px;
+  background-color: white;
+  padding: 7px;
+  border-radius: 70px;
+}
+
+.Posts {
+  margin-top: 30px;
+  border: 2px solid #5da8d6;
+  padding: 15px;
+  width: 700px;
+  border-radius: 20px;
+  display: grid;
+  grid-template-columns: 3fr 10fr;
+}
+
+.postMessage {
+  display: inline-block;
+  margin-top: 0;
+  margin-left: 20px;
+}
+
+.Posts button {
+  background-color: #5da8d6;
+  padding: 5px;
+  margin-top: 10px;
+  width: 100%;
+}

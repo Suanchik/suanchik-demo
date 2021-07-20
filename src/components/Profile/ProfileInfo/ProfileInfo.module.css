@@ -1,0 +1,26 @@
+.AvaImg img {
+  border-radius: 5px;
+  height: 200px;
+  width: 200px;
+  box-shadow: 0px 0px 2px 0px black;
+}
+
+.profileInfo {
+  display: grid;
+  grid-template-columns: 2fr 10fr;
+}
+
+.userInfo div {
+  padding: 5px;
+  padding-top: 0px;
+}
+
+.userInfo .item {
+  font-weight: bold;
+}
+
+.userName {
+  font-size: 25px;
+  font-weight: 5px;
+  font-weight: bold;
+}

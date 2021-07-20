@@ -1,0 +1,24 @@
+.MyPosts {
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    padding: 10px;
+    padding-top: 0px;
+    box-shadow: 0px 0px 1px 0px black ;
+}
+
+.MyPosts .Publickbutton {
+    padding: 5px;
+
+}
+
+.textareaButton {
+    padding: 5px;
+}
+
+.textareaButton textarea {
+    float:left;
+}
+
+.Post {
+    padding-top: 50px;
+}
