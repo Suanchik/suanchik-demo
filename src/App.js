@@ -1,6 +1,6 @@
 import React from 'react';
 import { connect } from 'react-redux';
-import { Route, withRouter } from 'react-router-dom';
+import { HashRouter, Route, withRouter } from 'react-router-dom';
 import { compose } from 'redux';
 import './App.css';
 import Prilouder from './components/coummon/Prilouder/Prilouder';
@@ -58,13 +58,13 @@ let AppContainer = compose(
 )(App);
 
 const SuanchikApp = (props) => {
-  return <BrowserRouter>
+  return <HashRouter>
     <React.StrictMode>
       <Provider store={store}>
         <AppContainer />
       </Provider>
     </React.StrictMode>
-  </BrowserRouter>
+  </HashRouter>
   
 }
 
