@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "./https://suanchik.github.io/suanchik-demo/static/css/main.fa9ed4c3.chunk.css",
+    "main.js": "./https://suanchik.github.io/suanchik-demo/static/js/main.7d44d4f6.chunk.js",
+    "main.js.map": "./https://suanchik.github.io/suanchik-demo/static/js/main.7d44d4f6.chunk.js.map",
+    "runtime-main.js": "./https://suanchik.github.io/suanchik-demo/static/js/runtime-main.291fd344.js",
+    "runtime-main.js.map": "./https://suanchik.github.io/suanchik-demo/static/js/runtime-main.291fd344.js.map",
+    "static/js/2.609d95d0.chunk.js": "./https://suanchik.github.io/suanchik-demo/static/js/2.609d95d0.chunk.js",
+    "static/js/2.609d95d0.chunk.js.map": "./https://suanchik.github.io/suanchik-demo/static/js/2.609d95d0.chunk.js.map",
+    "static/css/3.bce4f03a.chunk.css": "./https://suanchik.github.io/suanchik-demo/static/css/3.bce4f03a.chunk.css",
+    "static/js/3.1ae40eb3.chunk.js": "./https://suanchik.github.io/suanchik-demo/static/js/3.1ae40eb3.chunk.js",
+    "static/js/3.1ae40eb3.chunk.js.map": "./https://suanchik.github.io/suanchik-demo/static/js/3.1ae40eb3.chunk.js.map",
+    "index.html": "./https://suanchik.github.io/suanchik-demo/index.html",
+    "precache-manifest.c3e98efb5486feb50d8c0fafbfe5e9ae.js": "./https://suanchik.github.io/suanchik-demo/precache-manifest.c3e98efb5486feb50d8c0fafbfe5e9ae.js",
+    "service-worker.js": "./https://suanchik.github.io/suanchik-demo/service-worker.js",
+    "static/css/3.bce4f03a.chunk.css.map": "./https://suanchik.github.io/suanchik-demo/static/css/3.bce4f03a.chunk.css.map",
+    "static/css/main.fa9ed4c3.chunk.css.map": "./https://suanchik.github.io/suanchik-demo/static/css/main.fa9ed4c3.chunk.css.map",
+    "static/js/2.609d95d0.chunk.js.LICENSE.txt": "./https://suanchik.github.io/suanchik-demo/static/js/2.609d95d0.chunk.js.LICENSE.txt",
+    "static/media/loading.gif": "./https://suanchik.github.io/suanchik-demo/static/media/loading.c1011060.gif",
+    "static/media/mal.jpg": "./https://suanchik.github.io/suanchik-demo/static/media/mal.80dc001f.jpg",
+    "static/media/mal2.jpg": "./https://suanchik.github.io/suanchik-demo/static/media/mal2.765bb451.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.291fd344.js",
+    "static/js/2.609d95d0.chunk.js",
+    "static/css/main.fa9ed4c3.chunk.css",
+    "static/js/main.7d44d4f6.chunk.js"
+  ]
+}
