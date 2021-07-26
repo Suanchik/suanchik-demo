@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/suanchik-demo/static/css/main.abadaaee.chunk.css",
-    "main.js": "/suanchik-demo/static/js/main.032ef9ea.chunk.js",
-    "main.js.map": "/suanchik-demo/static/js/main.032ef9ea.chunk.js.map",
+    "main.js": "/suanchik-demo/static/js/main.c251f362.chunk.js",
+    "main.js.map": "/suanchik-demo/static/js/main.c251f362.chunk.js.map",
     "runtime-main.js": "/suanchik-demo/static/js/runtime-main.b89b953e.js",
     "runtime-main.js.map": "/suanchik-demo/static/js/runtime-main.b89b953e.js.map",
     "static/js/2.58eaf346.chunk.js": "/suanchik-demo/static/js/2.58eaf346.chunk.js",
@@ -11,7 +11,7 @@
     "static/js/3.9e1af638.chunk.js": "/suanchik-demo/static/js/3.9e1af638.chunk.js",
     "static/js/3.9e1af638.chunk.js.map": "/suanchik-demo/static/js/3.9e1af638.chunk.js.map",
     "index.html": "/suanchik-demo/index.html",
-    "precache-manifest.db3a25f94c5c65a2c818326fae2e28ae.js": "/suanchik-demo/precache-manifest.db3a25f94c5c65a2c818326fae2e28ae.js",
+    "precache-manifest.4984617106eb4787eb7c30b31e1f74d2.js": "/suanchik-demo/precache-manifest.4984617106eb4787eb7c30b31e1f74d2.js",
     "service-worker.js": "/suanchik-demo/service-worker.js",
     "static/css/3.b51d2948.chunk.css.map": "/suanchik-demo/static/css/3.b51d2948.chunk.css.map",
     "static/css/main.abadaaee.chunk.css.map": "/suanchik-demo/static/css/main.abadaaee.chunk.css.map",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.b89b953e.js",
     "static/js/2.58eaf346.chunk.js",
     "static/css/main.abadaaee.chunk.css",
-    "static/js/main.032ef9ea.chunk.js"
+    "static/js/main.c251f362.chunk.js"
   ]
 }

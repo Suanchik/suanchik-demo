@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3b1548e04c439b82d34b8e07a6e52a71",
+    "revision": "5aa0d533031309e93949589f45231703",
     "url": "/suanchik-demo/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/suanchik-demo/static/css/3.b51d2948.chunk.css"
   },
   {
-    "revision": "1df4f31b78657d632d75",
+    "revision": "c0b1afb40448d04980f8",
     "url": "/suanchik-demo/static/css/main.abadaaee.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/suanchik-demo/static/js/3.9e1af638.chunk.js"
   },
   {
-    "revision": "1df4f31b78657d632d75",
-    "url": "/suanchik-demo/static/js/main.032ef9ea.chunk.js"
+    "revision": "c0b1afb40448d04980f8",
+    "url": "/suanchik-demo/static/js/main.c251f362.chunk.js"
   },
   {
     "revision": "ea457deb5cdeb0464106",
