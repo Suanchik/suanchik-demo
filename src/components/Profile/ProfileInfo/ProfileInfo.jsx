@@ -1,13 +1,18 @@
-import React from 'react';
+import React, { useState } from 'react';
 import Prilouder from '../../coummon/Prilouder/Prilouder';
 import classes from './ProfileInfo.module.css'
-import ProfileStatus from './ProfileStatus';
 import ava from '../../../assets/avaImg/mal2.jpg';
-import ProfileStatusWithHooks from './ProfileStatusWithHook';
-import { useParams } from 'react-router-dom';
+import ProfileDataForm from './profileDataForm';
+import ProfileData from './profileData';
 
 
 const ProfileInfo = (props) => {
+
+    let [editForm, SetEditForm] = useState(false);
+
+    const editFormInfo = () => {
+        SetEditForm(!editForm)
+    }
 
     let profile = props.profile;
 
@@ -15,27 +20,23 @@ const ProfileInfo = (props) => {
         return <Prilouder />
     }
 
+    const mainPhoto = (e) => {
+        if (e.target.files.length) {
+            props.saveFile(e.target.files[0]);
+        }
+    }
+
     return (
         <div className={classes.profileInfo}>
             <div className={classes.AvaImg}>
                 <img src={profile.photos.large ? profile.photos.large : ava} alt="" />
-            </div>
-            <div className={classes.userInfo}>
                 <div>
-                    <div className={classes.userName}>{profile.fullName}</div>
-                    <ProfileStatusWithHooks status={props.status} upDataStatus={props.upDataStatus} /><hr />
-                </div>
-                <div>
-                    <div><span>Обо мне: </span>{profile.aboutMe}</div>
-                </div>
-                <div>
-                    <div><span className={classes.item}>Kонтакты:</span></div>
-                    <div> <span className={classes.item}>Facebook:</span> {profile.contacts.facebook}</div>
-                    <div> <span className={classes.item}>ВК:</span> {profile.contacts.vk}</div>
-                    <div> <span className={classes.item}>Twitter:</span> {profile.contacts.twitter}</div>
-                    <div> <span className={classes.item}>Instagrem:</span> {profile.contacts.instagram}</div>
+                    {props.isOuner && <input type="file" onChange={(e) => mainPhoto(e)} />}
                 </div>
             </div>
+
+            {editForm ? <ProfileDataForm editFormInfo={editFormInfo} /> : <ProfileData {...props} editFormInfo={editFormInfo} isOuner={props.isOuner} />}
+
         </div>
     )
 };
