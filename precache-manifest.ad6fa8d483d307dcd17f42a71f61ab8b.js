@@ -1,35 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "60da0ec5bdbaf53be7fd7dc95bb439e9",
+    "revision": "db11ad025b930f58c80f914516e3e589",
     "url": "/suanchik-demo/index.html"
   },
   {
-    "revision": "96464bf0606363e9b3c1",
-    "url": "/suanchik-demo/static/css/3.6e2eecdc.chunk.css"
+    "revision": "c3cb38718851dbcf2d7a",
+    "url": "/suanchik-demo/static/css/3.33f6409f.chunk.css"
   },
   {
-    "revision": "913aaee09a1ffa3072a4",
-    "url": "/suanchik-demo/static/css/main.0db8abc5.chunk.css"
+    "revision": "12cf4c8f89f85b9d917b",
+    "url": "/suanchik-demo/static/css/main.87caef8b.chunk.css"
   },
   {
-    "revision": "6c684bbb8130fb338cb8",
-    "url": "/suanchik-demo/static/js/2.05144207.chunk.js"
+    "revision": "807cf8dd21699b0772ec",
+    "url": "/suanchik-demo/static/js/2.c509f0b4.chunk.js"
   },
   {
     "revision": "eafe05020a9e8d5ac192526352c83990",
-    "url": "/suanchik-demo/static/js/2.05144207.chunk.js.LICENSE.txt"
+    "url": "/suanchik-demo/static/js/2.c509f0b4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "96464bf0606363e9b3c1",
-    "url": "/suanchik-demo/static/js/3.c1490f1e.chunk.js"
+    "revision": "c3cb38718851dbcf2d7a",
+    "url": "/suanchik-demo/static/js/3.9ead3120.chunk.js"
   },
   {
-    "revision": "913aaee09a1ffa3072a4",
-    "url": "/suanchik-demo/static/js/main.67bf2650.chunk.js"
+    "revision": "12cf4c8f89f85b9d917b",
+    "url": "/suanchik-demo/static/js/main.41b51a59.chunk.js"
   },
   {
-    "revision": "b9b4d84aee087cbc0b1d",
-    "url": "/suanchik-demo/static/js/runtime-main.6c30b3d0.js"
+    "revision": "e89df6129f3189aae354",
+    "url": "/suanchik-demo/static/js/runtime-main.9abe2d49.js"
   },
   {
     "revision": "1175686f65f8ace80847eb94547123c0",
