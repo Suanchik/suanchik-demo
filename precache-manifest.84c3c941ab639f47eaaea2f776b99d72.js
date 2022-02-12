@@ -1,35 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "21271ab74264fe086fc1bfed1f71be61",
+    "revision": "85d07f501019c2099021272d76744861",
     "url": "/suanchik-demo/index.html"
   },
   {
-    "revision": "f9bbc0446c3a5c1cc4be",
-    "url": "/suanchik-demo/static/css/3.33f6409f.chunk.css"
+    "revision": "4a7de8ae60c7948e66ce",
+    "url": "/suanchik-demo/static/css/3.bebf4d69.chunk.css"
   },
   {
-    "revision": "bf0c9b7a42f21ff31d40",
-    "url": "/suanchik-demo/static/css/main.5ffe42cc.chunk.css"
+    "revision": "251dbd077de71f171d18",
+    "url": "/suanchik-demo/static/css/main.7c461729.chunk.css"
   },
   {
-    "revision": "ed5ddbbe1c196660d784",
-    "url": "/suanchik-demo/static/js/2.dd158c09.chunk.js"
+    "revision": "0804fd13ef05c0e15af0",
+    "url": "/suanchik-demo/static/js/2.1a9ab1e0.chunk.js"
   },
   {
     "revision": "a64acf8e3ad6aa1497056f0bb9a7ce4f",
-    "url": "/suanchik-demo/static/js/2.dd158c09.chunk.js.LICENSE.txt"
+    "url": "/suanchik-demo/static/js/2.1a9ab1e0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f9bbc0446c3a5c1cc4be",
-    "url": "/suanchik-demo/static/js/3.af320f8c.chunk.js"
+    "revision": "4a7de8ae60c7948e66ce",
+    "url": "/suanchik-demo/static/js/3.67a8d12f.chunk.js"
   },
   {
-    "revision": "bf0c9b7a42f21ff31d40",
-    "url": "/suanchik-demo/static/js/main.531df3ea.chunk.js"
+    "revision": "251dbd077de71f171d18",
+    "url": "/suanchik-demo/static/js/main.711e345c.chunk.js"
   },
   {
-    "revision": "dedc96fdc58d502aeaec",
-    "url": "/suanchik-demo/static/js/runtime-main.a749a489.js"
+    "revision": "134755d1eb1d680f3400",
+    "url": "/suanchik-demo/static/js/runtime-main.a28c3aa2.js"
   },
   {
     "revision": "1175686f65f8ace80847eb94547123c0",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/suanchik-demo/static/media/loading.c1011060.gif"
   },
   {
-    "revision": "765bb451a9422fad476cd62270a6440f",
-    "url": "/suanchik-demo/static/media/mal2.765bb451.jpg"
+    "revision": "0d0e973f87e672fdb015652b770f2ffc",
+    "url": "/suanchik-demo/static/media/mal2.0d0e973f.jpg"
   },
   {
     "revision": "192d9a9ee7cc35c5192d51a32d87b302",
@@ -66,10 +66,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9902053098d42540790d44c4f835de7d",
     "url": "/suanchik-demo/static/media/rick.99020530.jpg"
-  },
-  {
-    "revision": "98fdb929318c7373e4c752254c3a4fe9",
-    "url": "/suanchik-demo/static/media/suanchik.98fdb929.png"
   },
   {
     "revision": "b8982e196d7c86f12143ffa41d2b33a8",
