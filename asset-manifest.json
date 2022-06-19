@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/suanchik-demo/static/css/main.b69b3048.chunk.css",
-    "main.js": "/suanchik-demo/static/js/main.55f5bb4e.chunk.js",
-    "main.js.map": "/suanchik-demo/static/js/main.55f5bb4e.chunk.js.map",
-    "runtime-main.js": "/suanchik-demo/static/js/runtime-main.1dd96e87.js",
-    "runtime-main.js.map": "/suanchik-demo/static/js/runtime-main.1dd96e87.js.map",
-    "static/js/2.d860b3b2.chunk.js": "/suanchik-demo/static/js/2.d860b3b2.chunk.js",
-    "static/js/2.d860b3b2.chunk.js.map": "/suanchik-demo/static/js/2.d860b3b2.chunk.js.map",
+    "main.js": "/suanchik-demo/static/js/main.f88c226d.chunk.js",
+    "main.js.map": "/suanchik-demo/static/js/main.f88c226d.chunk.js.map",
+    "runtime-main.js": "/suanchik-demo/static/js/runtime-main.265248d1.js",
+    "runtime-main.js.map": "/suanchik-demo/static/js/runtime-main.265248d1.js.map",
+    "static/js/2.724f2e5f.chunk.js": "/suanchik-demo/static/js/2.724f2e5f.chunk.js",
+    "static/js/2.724f2e5f.chunk.js.map": "/suanchik-demo/static/js/2.724f2e5f.chunk.js.map",
     "static/css/3.4d510c7d.chunk.css": "/suanchik-demo/static/css/3.4d510c7d.chunk.css",
-    "static/js/3.b959caf2.chunk.js": "/suanchik-demo/static/js/3.b959caf2.chunk.js",
-    "static/js/3.b959caf2.chunk.js.map": "/suanchik-demo/static/js/3.b959caf2.chunk.js.map",
+    "static/js/3.9267e085.chunk.js": "/suanchik-demo/static/js/3.9267e085.chunk.js",
+    "static/js/3.9267e085.chunk.js.map": "/suanchik-demo/static/js/3.9267e085.chunk.js.map",
     "index.html": "/suanchik-demo/index.html",
-    "precache-manifest.b3ae7d6c8464423cd376f99cb5809728.js": "/suanchik-demo/precache-manifest.b3ae7d6c8464423cd376f99cb5809728.js",
+    "precache-manifest.ef7660c37054ffc92ff48b01170ee95d.js": "/suanchik-demo/precache-manifest.ef7660c37054ffc92ff48b01170ee95d.js",
     "service-worker.js": "/suanchik-demo/service-worker.js",
     "static/css/3.4d510c7d.chunk.css.map": "/suanchik-demo/static/css/3.4d510c7d.chunk.css.map",
     "static/css/main.b69b3048.chunk.css.map": "/suanchik-demo/static/css/main.b69b3048.chunk.css.map",
-    "static/js/2.d860b3b2.chunk.js.LICENSE.txt": "/suanchik-demo/static/js/2.d860b3b2.chunk.js.LICENSE.txt",
+    "static/js/2.724f2e5f.chunk.js.LICENSE.txt": "/suanchik-demo/static/js/2.724f2e5f.chunk.js.LICENSE.txt",
     "static/media/close.svg": "/suanchik-demo/static/media/close.1175686f.svg",
     "static/media/emma.jpg": "/suanchik-demo/static/media/emma.61d8aaf3.jpg",
     "static/media/loading.gif": "/suanchik-demo/static/media/loading.c1011060.gif",
@@ -28,9 +28,9 @@
     "static/media/user.png": "/suanchik-demo/static/media/user.b8982e19.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1dd96e87.js",
-    "static/js/2.d860b3b2.chunk.js",
+    "static/js/runtime-main.265248d1.js",
+    "static/js/2.724f2e5f.chunk.js",
     "static/css/main.b69b3048.chunk.css",
-    "static/js/main.55f5bb4e.chunk.js"
+    "static/js/main.f88c226d.chunk.js"
   ]
 }
